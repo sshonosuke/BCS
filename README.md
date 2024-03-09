@@ -2,7 +2,7 @@
 
 This repository provides R code implementing Bayesian causal synthesis (BCS) for combining multiple estimators of heterogeneous treatment effects (HTE), as proposed by the following paper.
 
-Sugasawa, S., Takanashi, K., McAlinn, K. and Airoldi, E. A. (2023). Bayesian Causal Synthesis for Meta-Inference on Heterogeneous Treatment Effects. ([arXiv:2304.07726](https://arxiv.org/abs/2304.07726))
+Sugasawa, S., Takanashi, K., McAlinn, K. and Airoldi, E. M. (2023). Bayesian Causal Synthesis for Meta-Inference on Heterogeneous Treatment Effects. ([arXiv:2304.07726](https://arxiv.org/abs/2304.07726))
 
 The repository includes the following files.
 

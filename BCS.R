@@ -302,8 +302,8 @@ BCS <- function(Y, X, Tr, PS=NULL, mF, vF, m=10, mc=2000, burn=500, Phi.set=NULL
     TE.pos[r,] <- apply(TP*Beta, 1, sum)
     
     # print
-    if(round(10*r/R)==(10*r/R) & print ){ 
-      print( paste0(round(100*r/R), "% of MCMC has been done!") ) 
+    if(round(10*r/mc)==(10*r/mc) & print ){ 
+      print( paste0(round(100*r/mc), "% of MCMC has been done!") ) 
     }
   }
   
